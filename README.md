@@ -1,5 +1,7 @@
 Cupboard es una plataforma de e-commerce desarrollada con WordPress, diseñada para ofrecer una experiencia de compra en línea segura y eficiente. 
-. Instrucciones para Acceder y Navegar por el Sitio Web
+
+
+Instrucciones para Acceder y Navegar por el Sitio Web
 URL del Sitio Web: https://michi818.wordpress.com/
 Acceso:
 1.	Abrir el Navegador: Utiliza cualquier navegador web moderno (Chrome, Firefox, Safari, etc.).
